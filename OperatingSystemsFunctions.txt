@@ -1,4 +1,2 @@
-The operating system allows the user to launch software applcaitons.
-When you boot your system the operating sysytem launches a graphical user interface that shows software applications.
-The operating system takes information this is inputted by the mouse to be represtented on the screen and allows the user,
-to pick an application to launch.
+The operating system allows the user to launch software applcaitons. When you boot your system the operating sysytem launches a graphical user interface that shows software applications.The operating system takes information this is inputted by the mouse to be represtented on the screen and allows the user to pick an application to launch.
+The operating is resposible for security. The user can set up access to the computer itself, software on the computer, and functions of the software as well. The operating system can detect potantial threats by installing suspect software on the computer
